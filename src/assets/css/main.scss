@@ -1,0 +1,24 @@
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+textarea,
+input[type='text'],
+input[type='date'],
+input[type='number'],
+input[type='email'],
+input[type='tel'],
+input[type='password'] {
+    // border: 1px solid #d0d5dd;
+    // outline: none;
+    // &:focus {
+    // border: 1px solid #b7b7b7;
+    // outline: none;
+    // }
+
+    height: 44px;
+}
